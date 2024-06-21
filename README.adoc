@@ -194,8 +194,8 @@ Voici les pré-requis pour exécuter nos codes d'évaluation.
 
 === Références
 
-- link:http://xyz[Mon super outil XYZ]
-- ...
+- link:https://www.codacy.com/
+- link:https://www.jetbrains.com/idea/
 
 == Généralités, notation de la SAÉ et résultat du concours
 
