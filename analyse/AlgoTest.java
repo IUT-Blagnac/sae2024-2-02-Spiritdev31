@@ -106,7 +106,7 @@ public class AlgoTest extends TestCase{
          assertEquals("fffffffffff", sobriete.unRLE(sobriete.RLE("fffffffffff")));
          assertEquals("ggggggggggg", sobriete.unRLE(sobriete.RLE("ggggggggggg")));
          assertEquals("hhhhhhhhhhh", sobriete.unRLE(sobriete.RLE("hhhhhhhhhhh")));
-         sobriete.RLE("SAE", 5);
+         sobriete.RLE("SAE", 60);
       }
       catch(Exception e){
          fail("Exception inatendue");
