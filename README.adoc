@@ -182,15 +182,24 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 
 Voici les pré-requis pour exécuter nos codes d'évaluation.
 
-- Java v.x.y.z
-- ...
+- Java 19 à 21
+- un IDE type vscode ou Intellij
+- Les bibliotèques JUnit et PyUnit
+- Les codes à télécharger depuis webetud
+- Les AlgoTest dans le dossier analyse du repository
+- Un PC ne comportant presque pas de programmes qui tournent en fond
 
 === Reproductibilité
 
 - Pour reproduire nos analyses :
-. Installez X
-. Lancez Y
-. ...
+. Installez Java (19 à 21 selon vos préférences)
+. Lancez un IDE (vscode ou Intellij de préférence)
+. clonez le repository sur votre pc et ouvrez le avec votre IDE
+. Installez les bibliotèques JUnit et PyUnit
+. Lancez vos analyse avec les AlgoTest et comparez vos rendus avec les critères d'évaluation
+. Allez sur Codacy pour trouver des informations sur vos algorithmes (ex : la complexité)
+. Prenez un PC ne comportant presque pas de programmes qui tournent en fond
+. Constatez à partir du gestionnaire des tâches les performances de vos algorithmes
 
 === Références
 
